@@ -1,0 +1,5 @@
+[32m2025-11-11 17:53:03,280 [main] INFO : Processing all transactions to calculate totals.
+[m[32m2025-11-11 17:53:03,829 [main] INFO : Completed processing all transactions, total rows processed: 810
+[m[32m2025-11-11 17:53:03,962 [main] INFO : Writing HTML output to file: /home/shares/tmp/Coinbase.html
+[m[32m2025-11-11 17:53:04,042 [main] INFO : Processed 810 out of 810 rows.
+[m
