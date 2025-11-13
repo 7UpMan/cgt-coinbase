@@ -1,0 +1,30 @@
+# Data directory - contains CSV files and processed data
+data/
+
+# Maven build artifacts
+target/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Maven dependency-reduced POM
+dependency-reduced-pom.xml
