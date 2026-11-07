@@ -9,14 +9,13 @@
   <version>1</version>
 
   <name>cgt-coinbase</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+    <url>http://www.7upman.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>17</maven.compiler.source>
-    <maven.compiler.target>17</maven.compiler.target>
-  <maven.compiler.release>21</maven.compiler.release>
+    <maven.compiler.source>25</maven.compiler.source>
+    <maven.compiler.target>25</maven.compiler.target>
+  <maven.compiler.release>25</maven.compiler.release>
     <log4j-api.version>2.24.3</log4j-api.version>
   </properties>
   <dependencyManagement>

@@ -1,13 +1,13 @@
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/CsvRow.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/TaxSummaryTable.java
-/home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/RemainingTransactions.java
+/home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/DepositTransactions.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/TableRow.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/Tools.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/DbHelper.java
-/home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/CashTransactions.java
+/home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/OtherTransactions.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/DirHelper.java
-/home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/BuySellConvertTransactions.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/CsvHandler.java
+/home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/BuySellConvertTransactions.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/htmlOutput/ContentsTable.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/LoadData.java
 /home/mat/Projects/cgt-coinbase/src/main/java/com/s4apps/CalculateTotals.java

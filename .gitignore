@@ -21,6 +21,9 @@ Thumbs.db
 # Log files
 *.log
 
+# Local configuration files
+config/*.properties
+
 # Temporary files
 *.tmp
 *.temp

@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.s4apps.AppTest" time="0.051" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.s4apps.AppTest" time="0.054" tests="1" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.specification.version" value="21"/>
+    <property name="java.specification.version" value="25"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.class.path" value="/home/mat/Projects/cgt-coinbase/target/test-classes:/home/mat/Projects/cgt-coinbase/target/classes:/home/mat/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar:/home/mat/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar:/home/mat/.m2/repository/org/apache/logging/log4j/log4j-layout-template-json/2.24.3/log4j-layout-template-json-2.24.3.jar:/home/mat/.m2/repository/com/mysql/mysql-connector-j/9.5.0/mysql-connector-j-9.5.0.jar:/home/mat/.m2/repository/com/google/protobuf/protobuf-java/4.31.1/protobuf-java-4.31.1.jar:/home/mat/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/mat/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/mat/.m2/repository/org/apache/commons/commons-csv/1.14.1/commons-csv-1.14.1.jar:/home/mat/.m2/repository/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar:/home/mat/.m2/repository/commons-codec/commons-codec/1.19.0/commons-codec-1.19.0.jar:"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
     <property name="os.name" value="Linux"/>
-    <property name="java.vm.specification.version" value="21"/>
+    <property name="java.vm.specification.version" value="25"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="GB"/>
-    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-21-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/mat/Projects/cgt-coinbase/target/surefire/surefirebooter15492912453437291084.jar /home/mat/Projects/cgt-coinbase/target/surefire 2025-11-06T21-47-35_257-jvmRun1 surefire9507981915517725626tmp surefire_01118839669655302566tmp"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-25-openjdk-amd64/lib"/>
+    <property name="sun.java.command" value="/home/mat/Projects/cgt-coinbase/target/surefire/surefirebooter15607888069714742789.jar /home/mat/Projects/cgt-coinbase/target/surefire 2026-11-07T14-39-21_572-jvmRun1 surefire13468234190450628097tmp surefire_03057736121475950235tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/mat/Projects/cgt-coinbase/target/test-classes:/home/mat/Projects/cgt-coinbase/target/classes:/home/mat/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar:/home/mat/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.3/log4j-core-2.24.3.jar:/home/mat/.m2/repository/org/apache/logging/log4j/log4j-layout-template-json/2.24.3/log4j-layout-template-json-2.24.3.jar:/home/mat/.m2/repository/com/mysql/mysql-connector-j/9.5.0/mysql-connector-j-9.5.0.jar:/home/mat/.m2/repository/com/google/protobuf/protobuf-java/4.31.1/protobuf-java-4.31.1.jar:/home/mat/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/mat/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/mat/.m2/repository/org/apache/commons/commons-csv/1.14.1/commons-csv-1.14.1.jar:/home/mat/.m2/repository/commons-io/commons-io/2.20.0/commons-io-2.20.0.jar:/home/mat/.m2/repository/commons-codec/commons-codec/1.19.0/commons-codec-1.19.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/mat"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2025-07-15"/>
-    <property name="java.home" value="/usr/lib/jvm/java-21-openjdk-amd64"/>
+    <property name="java.version.date" value="2026-08-18"/>
+    <property name="java.home" value="/usr/lib/jvm/java-25-openjdk-amd64"/>
     <property name="file.separator" value="/"/>
     <property name="basedir" value="/home/mat/Projects/cgt-coinbase"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/mat/Projects/cgt-coinbase/target/surefire/surefirebooter15492912453437291084.jar"/>
+    <property name="surefire.real.class.path" value="/home/mat/Projects/cgt-coinbase/target/surefire/surefirebooter15607888069714742789.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="21.0.8+9-Ubuntu-0ubuntu124.04.1"/>
+    <property name="java.runtime.version" value="25.0.4.1+1-1-26.04.4-Ubuntu"/>
     <property name="user.name" value="mat"/>
     <property name="stdout.encoding" value="UTF-8"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="6.8.0-87-generic"/>
+    <property name="os.version" value="7.0.0-42-generic"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="localRepository" value="/home/mat/.m2/repository"/>
-    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-21"/>
+    <property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-25"/>
     <property name="java.io.tmpdir" value="/tmp"/>
-    <property name="java.version" value="21.0.8"/>
+    <property name="java.version" value="25.0.4.1"/>
     <property name="user.dir" value="/home/mat/Projects/cgt-coinbase"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
@@ -49,9 +49,10 @@
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="UTF-8"/>
     <property name="java.vendor" value="Ubuntu"/>
-    <property name="java.vm.version" value="21.0.8+9-Ubuntu-0ubuntu124.04.1"/>
+    <property name="java.vm.version" value="25.0.4.1+1-1-26.04.4-Ubuntu"/>
+    <property name="stdin.encoding" value="UTF-8"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="java.class.version" value="65.0"/>
+    <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.s4apps.AppTest" time="0.003"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.s4apps.AppTest" time="0.005"/>
 </testsuite>
